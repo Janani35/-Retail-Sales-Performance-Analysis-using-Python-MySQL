@@ -1,12 +1,12 @@
 # **Retail Sales Performance Analysis**
 
 ## **Overview**
-This project analyzes retail sales data to uncover key business insights using **Python, MySQL, and Power BI**. It identifies top-selling products, sales trends, and peak sales months to support data-driven decision-making.
+This project analyzes retail sales data to uncover key business insights using **Python & MySQL*. It identifies top-selling products, sales trends, and peak sales months to support data-driven decision-making.
 
 ## **Technologies Used**
 - **Python** (pandas, NumPy, Matplotlib) – Data cleaning and preprocessing
 - **MySQL** – Data storage and analysis
-- **Power BI** – Data visualization
+
 
 ## **Project Workflow**
 1. **Data Collection** – Sourced retail sales dataset from Kaggle.
@@ -16,12 +16,11 @@ This project analyzes retail sales data to uncover key business insights using *
    - Identified top revenue-generating and best-selling products.
    - Analyzed **month-over-month sales growth (2022 vs. 2023)**.
    - Determined peak sales months for different product categories.
-5. **Visualization** – Created interactive **Power BI dashboards** with bar charts, line graphs, and heatmaps.
 
 ## **Key Outcomes**
 - Identified sales trends and top-performing products.
 - Provided insights for optimizing retail strategies.
-- Demonstrated expertise in **Python, MySQL, and Power BI**.
+- Demonstrated expertise in **Python and  MySQL **.
 
 ## **Installation & Usage**
 1. Clone the repository:
@@ -40,7 +39,7 @@ This project analyzes retail sales data to uncover key business insights using *
 - `data/` – Raw and cleaned dataset
 - `scripts/` – Python scripts for data processing
 - `queries.sql` – SQL queries for analysis
-- `dashboard.pbix` – Power BI dashboard file
+
 
 ## **Contributors**
 - **Janani** – Data analysis, database management, and visualization
